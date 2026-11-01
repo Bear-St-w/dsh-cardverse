@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-cardverse
+      name: 'dsh-cardverse'
+      config: {}
+
